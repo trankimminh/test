@@ -1,4 +1,4 @@
-public class Bill {
+public class Bill123 {
     String idBill;
     String idEmployee;
     String idCustomer;
